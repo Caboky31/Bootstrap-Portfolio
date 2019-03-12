@@ -1,0 +1,58 @@
+footer {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    position: relative;
+    color:red;
+}
+
+form{
+    margin:20px;
+}
+
+.post-content {
+    background: none repeat scroll 0 0 rgb(121, 121, 121);
+ color:rgb(80, 75, 75);
+    top:0;
+    left:0;
+    position: absolute;
+}
+
+
+img {
+    display: block;
+    margin: 10px;
+    
+}
+
+.thumbnail {
+    position: absolute;
+    display: inline-block;
+   
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translate( -50%, -50% );
+    text-align: right;
+    color: white;
+    font-weight: bold;
+}
+
+#aboutme{
+    font-family: fantasy;
+    color: rgb(38, 148, 208);
+    padding: 20px;
+
+}
+
+.card-text{
+    font-size: 14px;
+    color:rgb(32, 32, 126)
+}
+
+.container{
+    padding: 20px;
+}
+
